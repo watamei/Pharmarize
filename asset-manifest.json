@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pharmarize/static/css/main.3176ae16.css",
+    "main.js": "/Pharmarize/static/js/main.8b6757b8.js",
+    "static/js/453.8392bed3.chunk.js": "/Pharmarize/static/js/453.8392bed3.chunk.js",
+    "index.html": "/Pharmarize/index.html",
+    "main.3176ae16.css.map": "/Pharmarize/static/css/main.3176ae16.css.map",
+    "main.8b6757b8.js.map": "/Pharmarize/static/js/main.8b6757b8.js.map",
+    "453.8392bed3.chunk.js.map": "/Pharmarize/static/js/453.8392bed3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3176ae16.css",
+    "static/js/main.8b6757b8.js"
+  ]
+}

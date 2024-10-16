@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Prompt', sans-serif;
+    background-color: #f0f0f0; /* สีพื้นหลัง */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-container {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid transparent; /* ไม่มีกรอบ */
+    border-bottom: 3px dashed #000; /* ขีดล่าง */
+}
+
+.login-title {
+    font-size: 36px; /* ตัวใหญ่ */
+    margin-bottom: 20px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* ระยะห่างระหว่างฟิลด์ */
+}
+
+.login-input {
+    padding: 10px;
+    border: none; /* ไม่มีกรอบ */
+    border-bottom: 2px solid #000; /* ขีดล่าง */
+    font-size: 18px;
+}
+
+.toggle-password {
+    cursor: pointer; /* เปลี่ยนเป็นมือ */
+}
+
+.login-button {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #4CAF50; /* สีเขียว */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
